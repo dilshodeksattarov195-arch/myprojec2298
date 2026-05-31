@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvender",
+        "uuid": 4290366,
+        "checksum": "2gays4"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
